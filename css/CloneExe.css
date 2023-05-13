@@ -1,0 +1,42 @@
+#logo {
+    height: 50px;
+}
+
+.card-p {
+    font-size: 12px;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+span{
+    color: white;
+}
+
+.footer {
+    height: 150px;
+    background-color: blue;
+    margin-top: 65px;
+
+}
+
+.footer h6 {
+    color: orange;
+}
+
+.p1 {
+    color: white;
+    font-size: 13px;
+}
+
+.p2 {
+    width: 200px;
+    text-align: center;
+
+}
+
+.foot span {
+    color: yellow;
+}
